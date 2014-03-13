@@ -23,6 +23,11 @@
           <ETAT>SEKRETARKA</ETAT>
           <PLACA>410,2</PLACA>
         </PRACOWNIK>
+        <PRACOWNIK ID_PRAC="p100">
+          <NAZWISKO>WEGLARZ</NAZWISKO>
+          <ETAT>&szef;</ETAT>
+          <PLACA>1730</PLACA>
+        </PRACOWNIK>
       </PRACOWNICY>
     </ZESPOL>
     <ZESPOL>
